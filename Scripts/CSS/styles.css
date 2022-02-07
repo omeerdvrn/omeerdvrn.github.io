@@ -52,4 +52,9 @@ body{
     color: white;
 }
 
+footer{
+    float:right;
+    margin-bottom: 2px;
+}
+
 
