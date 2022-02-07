@@ -1,14 +1,15 @@
 body{
     position: relative;
-    background-color: rgb(68, 68, 68);
+    background-color: black
 }
 .box{
     position: relative;
     margin: auto;
-    background-color: black;
+    top: 100px;
+    background-color: rgb(68, 68, 68);
 }
 .box h1{
-    color: rgb(68, 68, 68);
+    color: white;
 }
 
 
